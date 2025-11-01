@@ -111,7 +111,7 @@ Step 6: Check Running The Site At  <a Href="http://localhost:8083/tendermanageme
 
 Step 7: Default Username And Password For Admin Is "Admin" and "Admin" respectively. [Case-Sensitive]
 
-Step 8: Default Username And Password For User Is "shashi@gmail.com" and "shashi" respectively.
+Step 8: Default Username And Password For User Is "   " and "    " respectively.
 
 
 
