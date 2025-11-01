@@ -1,13 +1,4 @@
-<a href="http://ec2-13-233-71-174.ap-south-1.compute.amazonaws.com:8080/tendermanagement/" alt="Tender Management System Java Project" target="_blank">**Tender Management System**</a><br><br>
-- **Youtube VIDEO** for local setup of this project: https://www.youtube.com/watch?v=7CE3aY4e644
-- **Youtube VIDEO** for Local Setup of similar project : https://youtu.be/mLFPodZO8Iw
-### Login Credentials:
-	User Login: shashi@gmail.com/shashi
-	Admin Login: Admin/Admin
-Whenever a company  requires a service / merchandise , a tender is floated. Company maintains an empaneled list of Vendors. An empaneled vendor can only bid for a tender. Every vendor can bid only once against   each tender. Against each tender there may be   bids from several vendors. The company will then select the most suitable bid and places the order to that vendor.
-<!--
-**Note: This Website is LIVE now <a href="http://ec2-13-233-71-174.ap-south-1.compute.amazonaws.com:8080/tendermanagement/" alt="Tender Management System Java Project" target="_blank">Click Here</a> to visit the live website.
--->
+
 **There are 2 users in the system**
 
 1.	Administrator and
@@ -27,11 +18,7 @@ Whenever a company  requires a service / merchandise , a tender is floated. Comp
 2.	Place a Bid against a Tender.
 3.	View status of a Bid(Whether Selected or Not)
 4.	View his own Bid History.
-<!--
-<a href="http://ec2-13-233-71-174.ap-south-1.compute.amazonaws.com:8080/tendermanagement/" alt="Tender Management System Java Project" target="_blank" div color="red"> 
-LIVE NOW &#x1F534
-</a>
--->
+
 
 ### Technologies used:-
 1. Front-End Development:
@@ -53,10 +40,7 @@ LIVE NOW &#x1F534
 - : Java JDK 8+
 - : Tomcat v8.0
 - : Apache Maven
-- 
-### ========== Dummy Database Initialization USing SQLDUMP =====================
-
-STEPS: If you want to create table structure with dummy database, then follow the Steps given <a target="_blank" href="https://github.com/shashirajraja/Tender-Management-System/blob/master/DataBase/how-to-import-sql-dump-file.md">Here Inside DataBase/how-to-import-sql-dump-file</a>
+  
 
 ### ================= Dummy Database Initialization USING QUERY =================
 
@@ -107,9 +91,9 @@ commit;
 ```
 	
 ### ====== Importing and Running the Project Through Eclipse EE ===========
-Step 0: Open Eclipse Enterprise Edition. [Install if not available]
+Step 0: Open Eclipse Enterprise Edition.
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Tender-Management-System.git``` > Next > Select Master Branch > Select Tender-Management-System\tendermanagement (Eclipse Project) > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/PrathmeshJoshi07/Tender-Recommendation-System-Java-.git``` > Next > Select Master Branch > Select Tender-Management-System\tendermanagement (Eclipse Project) > Next > Finish
 
 Step 2.a: Go inside ```tendermanagement > Java Resources > dbdetails.properties``` and update the value of username and password according to your installed mysql admin credentials
 
@@ -134,5 +118,3 @@ Step 8: Default Username And Password For User Is "shashi@gmail.com" and "shashi
 #### "Suggestions and project Improvements are always Invited!"
 
 <bold>Thanks a lot</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
